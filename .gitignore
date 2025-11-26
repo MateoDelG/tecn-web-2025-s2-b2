@@ -1,0 +1,5 @@
+# Ignorar venvs
+**/Include/
+**/Lib/
+**/Scripts/
+**/pyvenv.cfg

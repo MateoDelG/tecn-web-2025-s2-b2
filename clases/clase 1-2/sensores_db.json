@@ -1,0 +1,29 @@
+[
+    {
+        "id": "temp-001",
+        "tipo": "temperatura",
+        "ubicacion": {
+            "lat": 45.986,
+            "long": 75.365
+        },
+        "valor": 46.3
+    },
+    {
+        "id": "temp-001",
+        "tipo": "temperatura",
+        "ubicacion": {
+            "lat": 45.986,
+            "long": 75.365
+        },
+        "valor": 46.3
+    },
+    {
+        "id": "temp-002",
+        "tipo": "temperatura",
+        "ubicacion": {
+            "lat": 45.986,
+            "long": 75.365
+        },
+        "valor": 100
+    }
+]
